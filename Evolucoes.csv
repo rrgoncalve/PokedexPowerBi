@@ -1,0 +1,2319 @@
+﻿num;name;evolutions
+1;Bulbasaur;Bulbasaur
+1;Bulbasaur;Ivysaur
+1;Bulbasaur;Venusaur
+2;Ivysaur;Bulbasaur
+2;Ivysaur;Ivysaur
+2;Ivysaur;Venusaur
+3;Venusaur;Bulbasaur
+3;Venusaur;Ivysaur
+3;Venusaur;Venusaur
+3;Mega Venusaur;Bulbasaur
+3;Mega Venusaur;Ivysaur
+3;Mega Venusaur;Venusaur
+4;Charmander;Charmander
+4;Charmander;Charmeleon
+4;Charmander;Charizard
+5;Charmeleon;Charmander
+5;Charmeleon;Charmeleon
+5;Charmeleon;Charizard
+6;Charizard;Charmander
+6;Charizard;Charmeleon
+6;Charizard;Charizard
+6;Mega Charizard X;Charmander
+6;Mega Charizard X;Charmeleon
+6;Mega Charizard X;Charizard
+6;Mega Charizard Y;Charmander
+6;Mega Charizard Y;Charmeleon
+6;Mega Charizard Y;Charizard
+7;Squirtle;Squirtle
+7;Squirtle;Wartortle
+7;Squirtle;Blastoise
+8;Wartortle;Squirtle
+8;Wartortle;Wartortle
+8;Wartortle;Blastoise
+9;Blastoise;Squirtle
+9;Blastoise;Wartortle
+9;Blastoise;Blastoise
+9;Mega Blastoise;Squirtle
+9;Mega Blastoise;Wartortle
+9;Mega Blastoise;Blastoise
+10;Caterpie;Caterpie
+10;Caterpie;Metapod
+10;Caterpie;Butterfree
+11;Metapod;Caterpie
+11;Metapod;Metapod
+11;Metapod;Butterfree
+12;Butterfree;Caterpie
+12;Butterfree;Metapod
+12;Butterfree;Butterfree
+13;Weedle;Weedle
+13;Weedle;Kakuna
+13;Weedle;Beedrill
+14;Kakuna;Weedle
+14;Kakuna;Kakuna
+14;Kakuna;Beedrill
+15;Beedrill;Weedle
+15;Beedrill;Kakuna
+15;Beedrill;Beedrill
+15;Mega Beedrill;Weedle
+15;Mega Beedrill;Kakuna
+15;Mega Beedrill;Beedrill
+16;Pidgey;Pidgey
+16;Pidgey;Pidgeotto
+16;Pidgey;Pidgeot
+17;Pidgeotto;Pidgey
+17;Pidgeotto;Pidgeotto
+17;Pidgeotto;Pidgeot
+18;Pidgeot;Pidgey
+18;Pidgeot;Pidgeotto
+18;Pidgeot;Pidgeot
+18;Mega Pidgeot;Pidgey
+18;Mega Pidgeot;Pidgeotto
+18;Mega Pidgeot;Pidgeot
+19;Rattata;Rattata
+19;Rattata;Raticate
+19;Alolan Rattata;Rattata
+19;Alolan Rattata;Raticate
+20;Raticate;Rattata
+20;Raticate;Raticate
+20;Alolan Raticate;Rattata
+20;Alolan Raticate;Raticate
+21;Spearow;Spearow
+21;Spearow;Fearow
+22;Fearow;Spearow
+22;Fearow;Fearow
+23;Ekans;Ekans
+23;Ekans;Arbok
+24;Arbok;Ekans
+24;Arbok;Arbok
+25;Pikachu;Pichu
+25;Pikachu;Pikachu
+25;Pikachu;Raichu
+26;Raichu;Pichu
+26;Raichu;Pikachu
+26;Raichu;Raichu
+26;Alolan Raichu;Pichu
+26;Alolan Raichu;Pikachu
+26;Alolan Raichu;Raichu
+27;Sandshrew;Sandshrew
+27;Sandshrew;Sandslash
+27;Alolan Sandshrew;Sandshrew
+27;Alolan Sandshrew;Sandslash
+28;Sandslash;Sandshrew
+28;Sandslash;Sandslash
+28;Alolan Sandslash;Sandshrew
+28;Alolan Sandslash;Sandslash
+29;Nidoran♀;Nidoran♀
+29;Nidoran♀;Nidorina
+29;Nidoran♀;Nidoqueen
+30;Nidorina;Nidoran♀
+30;Nidorina;Nidorina
+30;Nidorina;Nidoqueen
+31;Nidoqueen;Nidoran♀
+31;Nidoqueen;Nidorina
+31;Nidoqueen;Nidoqueen
+32;Nidoran♂;Nidoran♂
+32;Nidoran♂;Nidorino
+32;Nidoran♂;Nidoking
+33;Nidorino;Nidoran♂
+33;Nidorino;Nidorino
+33;Nidorino;Nidoking
+34;Nidoking;Nidoran♂
+34;Nidoking;Nidorino
+34;Nidoking;Nidoking
+35;Clefairy;Cleffa
+35;Clefairy;Clefairy
+35;Clefairy;Clefable
+36;Clefable;Cleffa
+36;Clefable;Clefairy
+36;Clefable;Clefable
+37;Vulpix;Vulpix
+37;Vulpix;Ninetales
+37;Alolan Vulpix;Vulpix
+37;Alolan Vulpix;Ninetales
+38;Ninetales;Vulpix
+38;Ninetales;Ninetales
+38;Alolan Ninetales;Vulpix
+38;Alolan Ninetales;Ninetales
+39;Jigglypuff;Igglybuff
+39;Jigglypuff;Jigglypuff
+39;Jigglypuff;Wigglytuff
+40;Wigglytuff;Igglybuff
+40;Wigglytuff;Jigglypuff
+40;Wigglytuff;Wigglytuff
+41;Zubat;Zubat
+41;Zubat;Golbat
+41;Zubat;Crobat
+42;Golbat;Zubat
+42;Golbat;Golbat
+42;Golbat;Crobat
+43;Oddish;Oddish
+43;Oddish;Gloom
+43;Oddish;Vileplume
+43;Oddish;Bellossom
+44;Gloom;Oddish
+44;Gloom;Gloom
+44;Gloom;Vileplume
+44;Gloom;Bellossom
+45;Vileplume;Oddish
+45;Vileplume;Gloom
+45;Vileplume;Vileplume
+45;Vileplume;Bellossom
+46;Paras;Paras
+46;Paras;Parasect
+47;Parasect;Paras
+47;Parasect;Parasect
+48;Venonat;Venonat
+48;Venonat;Venomoth
+49;Venomoth;Venonat
+49;Venomoth;Venomoth
+50;Diglett;Diglett
+50;Diglett;Dugtrio
+50;Alolan Diglett;Diglett
+50;Alolan Diglett;Dugtrio
+51;Dugtrio;Diglett
+51;Dugtrio;Dugtrio
+51;Alolan Dugtrio;Diglett
+51;Alolan Dugtrio;Dugtrio
+52;Meowth;Meowth
+52;Meowth;Persian
+52;Alolan Meowth;Meowth
+52;Alolan Meowth;Persian
+52;Galarian Meowth;Galarian Meowth
+52;Galarian Meowth;Perrserker
+53;Persian;Meowth
+53;Persian;Persian
+53;Alolan Persian;Meowth
+53;Alolan Persian;Persian
+54;Psyduck;Psyduck
+54;Psyduck;Golduck
+55;Golduck;Psyduck
+55;Golduck;Golduck
+56;Mankey;Mankey
+56;Mankey;Primeape
+57;Primeape;Mankey
+57;Primeape;Primeape
+58;Growlithe;Growlithe
+58;Growlithe;Arcanine
+59;Arcanine;Growlithe
+59;Arcanine;Arcanine
+60;Poliwag;Poliwag
+60;Poliwag;Poliwhirl
+60;Poliwag;Poliwrath
+60;Poliwag;Politoed
+61;Poliwhirl;Poliwag
+61;Poliwhirl;Poliwhirl
+61;Poliwhirl;Poliwrath
+61;Poliwhirl;Politoed
+62;Poliwrath;Poliwag
+62;Poliwrath;Poliwhirl
+62;Poliwrath;Poliwrath
+62;Poliwrath;Politoed
+63;Abra;Abra
+63;Abra;Kadabra
+63;Abra;Alakazam
+64;Kadabra;Abra
+64;Kadabra;Kadabra
+64;Kadabra;Alakazam
+65;Alakazam;Abra
+65;Alakazam;Kadabra
+65;Alakazam;Alakazam
+65;Mega Alakazam;Abra
+65;Mega Alakazam;Kadabra
+65;Mega Alakazam;Alakazam
+66;Machop;Machop
+66;Machop;Machoke
+66;Machop;Machamp
+67;Machoke;Machop
+67;Machoke;Machoke
+67;Machoke;Machamp
+68;Machamp;Machop
+68;Machamp;Machoke
+68;Machamp;Machamp
+69;Bellsprout;Bellsprout
+69;Bellsprout;Weepinbell
+69;Bellsprout;Victreebel
+70;Weepinbell;Bellsprout
+70;Weepinbell;Weepinbell
+70;Weepinbell;Victreebel
+71;Victreebel;Bellsprout
+71;Victreebel;Weepinbell
+71;Victreebel;Victreebel
+72;Tentacool;Tentacool
+72;Tentacool;Tentacruel
+73;Tentacruel;Tentacool
+73;Tentacruel;Tentacruel
+74;Geodude;Geodude
+74;Geodude;Graveler
+74;Geodude;Golem
+74;Alolan Geodude;Geodude
+74;Alolan Geodude;Graveler
+74;Alolan Geodude;Golem
+75;Graveler;Geodude
+75;Graveler;Graveler
+75;Graveler;Golem
+75;Alolan Graveler;Geodude
+75;Alolan Graveler;Graveler
+75;Alolan Graveler;Golem
+76;Golem;Geodude
+76;Golem;Graveler
+76;Golem;Golem
+76;Alolan Golem;Geodude
+76;Alolan Golem;Graveler
+76;Alolan Golem;Golem
+77;Ponyta;Ponyta
+77;Ponyta;Rapidash
+77;Galarian Ponyta;Galarian Ponyta
+77;Galarian Ponyta;Galarian Rapidash
+78;Rapidash;Ponyta
+78;Rapidash;Rapidash
+78;Galarian Rapidash;Galarian Ponyta
+78;Galarian Rapidash;Galarian Rapidash
+79;Slowpoke;Slowpoke
+79;Slowpoke;Slowbro
+79;Slowpoke;Slowking
+79;Galarian Slowpoke;Galarian Slowpoke
+79;Galarian Slowpoke;Galarian Slowbro
+79;Galarian Slowpoke;Galarian Slowking
+80;Slowbro;Slowpoke
+80;Slowbro;Slowbro
+80;Slowbro;Slowking
+80;Mega Slowbro;Slowpoke
+80;Mega Slowbro;Slowbro
+80;Mega Slowbro;Slowking
+80;Galarian Slowbro;Galarian Slowpoke
+80;Galarian Slowbro;Galarian Slowbro
+80;Galarian Slowbro;Galarian Slowking
+81;Magnemite;Magnemite
+81;Magnemite;Magneton
+81;Magnemite;Magnezone
+82;Magneton;Magnemite
+82;Magneton;Magneton
+82;Magneton;Magnezone
+83;Farfetch'd;Farfetch'd
+83;Farfetch'd;Sirfetch'd
+83;Galarian Farfetch'd;Galarian Farfetch'd
+83;Galarian Farfetch'd;Sirfetch'd
+84;Doduo;Doduo
+84;Doduo;Dodrio
+85;Dodrio;Doduo
+85;Dodrio;Dodrio
+86;Seel;Seel
+86;Seel;Dewgong
+87;Dewgong;Seel
+87;Dewgong;Dewgong
+88;Grimer;Grimer
+88;Grimer;Muk
+88;Alolan Grimer;Grimer
+88;Alolan Grimer;Muk
+89;Muk;Grimer
+89;Muk;Muk
+89;Alolan Muk;Grimer
+89;Alolan Muk;Muk
+90;Shellder;Shellder
+90;Shellder;Cloyster
+91;Cloyster;Shellder
+91;Cloyster;Cloyster
+92;Gastly;Gastly
+92;Gastly;Haunter
+92;Gastly;Gengar
+93;Haunter;Gastly
+93;Haunter;Haunter
+93;Haunter;Gengar
+94;Gengar;Gastly
+94;Gengar;Haunter
+94;Gengar;Gengar
+94;Mega Gengar;Gastly
+94;Mega Gengar;Haunter
+94;Mega Gengar;Gengar
+95;Onix;Onix
+95;Onix;Steelix
+96;Drowzee;Drowzee
+96;Drowzee;Hypno
+97;Hypno;Drowzee
+97;Hypno;Hypno
+98;Krabby;Krabby
+98;Krabby;Kingler
+99;Kingler;Krabby
+99;Kingler;Kingler
+100;Voltorb;Voltorb
+100;Voltorb;Electrode
+101;Electrode;Voltorb
+101;Electrode;Electrode
+102;Exeggcute;Exeggcute
+102;Exeggcute;Exeggutor
+103;Exeggutor;Exeggcute
+103;Exeggutor;Exeggutor
+103;Alolan Exeggutor;Exeggcute
+103;Alolan Exeggutor;Exeggutor
+104;Cubone;Cubone
+104;Cubone;Marowak
+105;Marowak;Cubone
+105;Marowak;Marowak
+105;Alolan Marowak;Cubone
+105;Alolan Marowak;Marowak
+106;Hitmonlee;Tyrogue
+106;Hitmonlee;Hitmonlee
+106;Hitmonlee;Hitmonchan
+106;Hitmonlee;Hitmontop
+107;Hitmonchan;Tyrogue
+107;Hitmonchan;Hitmonlee
+107;Hitmonchan;Hitmonchan
+107;Hitmonchan;Hitmontop
+108;Lickitung;Lickitung
+108;Lickitung;Lickilicky
+109;Koffing;Koffing
+109;Koffing;Weezing
+109;Koffing;Galarian Weezing
+110;Weezing;Koffing
+110;Weezing;Weezing
+110;Weezing;Galarian Weezing
+110;Galarian Weezing;Koffing
+110;Galarian Weezing;Weezing
+110;Galarian Weezing;Galarian Weezing
+111;Rhyhorn;Rhyhorn
+111;Rhyhorn;Rhydon
+111;Rhyhorn;Rhyperior
+112;Rhydon;Rhyhorn
+112;Rhydon;Rhydon
+112;Rhydon;Rhyperior
+113;Chansey;Happiny
+113;Chansey;Chansey
+113;Chansey;Blissey
+114;Tangela;Tangela
+114;Tangela;Tangrowth
+115;Kangaskhan;Kangaskhan
+115;Mega Kangaskhan;Mega Kangaskhan
+116;Horsea;Horsea
+116;Horsea;Seadra
+116;Horsea;Kingdra
+117;Seadra;Horsea
+117;Seadra;Seadra
+117;Seadra;Kingdra
+118;Goldeen;Goldeen
+118;Goldeen;Seaking
+119;Seaking;Goldeen
+119;Seaking;Seaking
+120;Staryu;Staryu
+120;Staryu;Starmie
+121;Starmie;Staryu
+121;Starmie;Starmie
+122;Mr. Mime;Mime Jr.
+122;Mr. Mime;Mr. Mime
+122;Mr. Mime;Galarian Mr. Mime
+123;Scyther;Scyther
+123;Scyther;Scizor
+124;Jynx;Smoochum
+124;Jynx;Jynx
+125;Electabuzz;Elekid
+125;Electabuzz;Electabuzz
+125;Electabuzz;Electivire
+126;Magmar;Magby
+126;Magmar;Magmar
+126;Magmar;Magmortar
+127;Pinsir;Pinsir
+127;Mega Pinsir;Mega Pinsir
+128;Tauros;Tauros
+129;Magikarp;Magikarp
+129;Magikarp;Gyarados
+130;Gyarados;Magikarp
+130;Gyarados;Gyarados
+130;Mega Gyarados;Magikarp
+130;Mega Gyarados;Gyarados
+131;Lapras;Lapras
+132;Ditto;Ditto
+133;Eevee;Eevee
+133;Eevee;Vaporeon
+133;Eevee;Jolteon
+133;Eevee;Flareon
+133;Eevee;Espeon
+133;Eevee;Umbreon
+133;Eevee;Leafeon
+133;Eevee;Glaceon
+133;Eevee;Sylveon
+134;Vaporeon;Eevee
+134;Vaporeon;Vaporeon
+134;Vaporeon;Jolteon
+134;Vaporeon;Flareon
+134;Vaporeon;Espeon
+134;Vaporeon;Umbreon
+134;Vaporeon;Leafeon
+134;Vaporeon;Glaceon
+134;Vaporeon;Sylveon
+135;Jolteon;Eevee
+135;Jolteon;Vaporeon
+135;Jolteon;Jolteon
+135;Jolteon;Flareon
+135;Jolteon;Espeon
+135;Jolteon;Umbreon
+135;Jolteon;Leafeon
+135;Jolteon;Glaceon
+135;Jolteon;Sylveon
+136;Flareon;Eevee
+136;Flareon;Vaporeon
+136;Flareon;Jolteon
+136;Flareon;Flareon
+136;Flareon;Espeon
+136;Flareon;Umbreon
+136;Flareon;Leafeon
+136;Flareon;Glaceon
+136;Flareon;Sylveon
+137;Porygon;Porygon
+137;Porygon;Porygon2
+137;Porygon;Porygon-Z
+138;Omanyte;Omanyte
+138;Omanyte;Omastar
+139;Omastar;Omanyte
+139;Omastar;Omastar
+140;Kabuto;Kabuto
+140;Kabuto;Kabutops
+141;Kabutops;Kabuto
+141;Kabutops;Kabutops
+142;Aerodactyl;Aerodactyl
+142;Mega Aerodactyl;Mega Aerodactyl
+143;Snorlax;Munchlax
+143;Snorlax;Snorlax
+144;Articuno;Articuno
+144;Galarian Articuno;Galarian Articuno
+145;Zapdos;Zapdos
+145;Galarian Zapdos;Galarian Zapdos
+146;Moltres;Moltres
+146;Galarian Moltres;Galarian Moltres
+147;Dratini;Dratini
+147;Dratini;Dragonair
+147;Dratini;Dragonite
+148;Dragonair;Dratini
+148;Dragonair;Dragonair
+148;Dragonair;Dragonite
+149;Dragonite;Dratini
+149;Dragonite;Dragonair
+149;Dragonite;Dragonite
+150;Mewtwo;Mewtwo
+150;Mega Mewtwo X;Mega Mewtwo X
+150;Mega Mewtwo Y;Mega Mewtwo Y
+151;Mew;Mew
+152;Chikorita;Chikorita
+152;Chikorita;Bayleef
+152;Chikorita;Meganium
+153;Bayleef;Chikorita
+153;Bayleef;Bayleef
+153;Bayleef;Meganium
+154;Meganium;Chikorita
+154;Meganium;Bayleef
+154;Meganium;Meganium
+155;Cyndaquil;Cyndaquil
+155;Cyndaquil;Quilava
+155;Cyndaquil;Typhlosion
+156;Quilava;Cyndaquil
+156;Quilava;Quilava
+156;Quilava;Typhlosion
+157;Typhlosion;Cyndaquil
+157;Typhlosion;Quilava
+157;Typhlosion;Typhlosion
+158;Totodile;Totodile
+158;Totodile;Croconaw
+158;Totodile;Feraligatr
+159;Croconaw;Totodile
+159;Croconaw;Croconaw
+159;Croconaw;Feraligatr
+160;Feraligatr;Totodile
+160;Feraligatr;Croconaw
+160;Feraligatr;Feraligatr
+161;Sentret;Sentret
+161;Sentret;Furret
+162;Furret;Sentret
+162;Furret;Furret
+163;Hoothoot;Hoothoot
+163;Hoothoot;Noctowl
+164;Noctowl;Hoothoot
+164;Noctowl;Noctowl
+165;Ledyba;Ledyba
+165;Ledyba;Ledian
+166;Ledian;Ledyba
+166;Ledian;Ledian
+167;Spinarak;Spinarak
+167;Spinarak;Ariados
+168;Ariados;Spinarak
+168;Ariados;Ariados
+169;Crobat;Zubat
+169;Crobat;Golbat
+169;Crobat;Crobat
+170;Chinchou;Chinchou
+170;Chinchou;Lanturn
+171;Lanturn;Chinchou
+171;Lanturn;Lanturn
+172;Pichu;Pichu
+172;Pichu;Pikachu
+172;Pichu;Raichu
+173;Cleffa;Cleffa
+173;Cleffa;Clefairy
+173;Cleffa;Clefable
+174;Igglybuff;Igglybuff
+174;Igglybuff;Jigglypuff
+174;Igglybuff;Wigglytuff
+175;Togepi;Togepi
+175;Togepi;Togetic
+175;Togepi;Togekiss
+176;Togetic;Togepi
+176;Togetic;Togetic
+176;Togetic;Togekiss
+177;Natu;Natu
+177;Natu;Xatu
+178;Xatu;Natu
+178;Xatu;Xatu
+179;Mareep;Mareep
+179;Mareep;Flaaffy
+179;Mareep;Ampharos
+180;Flaaffy;Mareep
+180;Flaaffy;Flaaffy
+180;Flaaffy;Ampharos
+181;Ampharos;Mareep
+181;Ampharos;Flaaffy
+181;Ampharos;Ampharos
+181;Mega Ampharos;Mareep
+181;Mega Ampharos;Flaaffy
+181;Mega Ampharos;Ampharos
+182;Bellossom;Oddish
+182;Bellossom;Gloom
+182;Bellossom;Vileplume
+182;Bellossom;Bellossom
+183;Marill;Azurill
+183;Marill;Marill
+183;Marill;Azumarill
+184;Azumarill;Azurill
+184;Azumarill;Marill
+184;Azumarill;Azumarill
+185;Sudowoodo;Bonsly
+185;Sudowoodo;Sudowoodo
+186;Politoed;Poliwag
+186;Politoed;Poliwhirl
+186;Politoed;Poliwrath
+186;Politoed;Politoed
+187;Hoppip;Hoppip
+187;Hoppip;Skiploom
+187;Hoppip;Jumpluff
+188;Skiploom;Hoppip
+188;Skiploom;Skiploom
+188;Skiploom;Jumpluff
+189;Jumpluff;Hoppip
+189;Jumpluff;Skiploom
+189;Jumpluff;Jumpluff
+190;Aipom;Aipom
+190;Aipom;Ambipom
+191;Sunkern;Sunkern
+191;Sunkern;Sunflora
+192;Sunflora;Sunkern
+192;Sunflora;Sunflora
+193;Yanma;Yanma
+193;Yanma;Yanmega
+194;Wooper;Wooper
+194;Wooper;Quagsire
+195;Quagsire;Wooper
+195;Quagsire;Quagsire
+196;Espeon;Eevee
+196;Espeon;Vaporeon
+196;Espeon;Jolteon
+196;Espeon;Flareon
+196;Espeon;Espeon
+196;Espeon;Umbreon
+196;Espeon;Leafeon
+196;Espeon;Glaceon
+196;Espeon;Sylveon
+197;Umbreon;Eevee
+197;Umbreon;Vaporeon
+197;Umbreon;Jolteon
+197;Umbreon;Flareon
+197;Umbreon;Espeon
+197;Umbreon;Umbreon
+197;Umbreon;Leafeon
+197;Umbreon;Glaceon
+197;Umbreon;Sylveon
+198;Murkrow;Murkrow
+198;Murkrow;Honchkrow
+199;Slowking;Slowpoke
+199;Slowking;Slowbro
+199;Slowking;Slowking
+199;Galarian Slowking;Galarian Slowpoke
+199;Galarian Slowking;Galarian Slowbro
+199;Galarian Slowking;Galarian Slowking
+200;Misdreavus;Misdreavus
+200;Misdreavus;Mismagius
+201;Unown;Unown
+202;Wobbuffet;Wynaut
+202;Wobbuffet;Wobbuffet
+203;Girafarig;Girafarig
+204;Pineco;Pineco
+204;Pineco;Forretress
+205;Forretress;Pineco
+205;Forretress;Forretress
+206;Dunsparce;Dunsparce
+207;Gligar;Gligar
+207;Gligar;Gliscor
+208;Steelix;Onix
+208;Steelix;Steelix
+208;Mega Steelix;Onix
+208;Mega Steelix;Steelix
+209;Snubbull;Snubbull
+209;Snubbull;Granbull
+210;Granbull;Snubbull
+210;Granbull;Granbull
+211;Qwilfish;Qwilfish
+212;Scizor;Scyther
+212;Scizor;Scizor
+212;Mega Scizor;Scyther
+212;Mega Scizor;Scizor
+213;Shuckle;Shuckle
+214;Heracross;Heracross
+214;Mega Heracross;Mega Heracross
+215;Sneasel;Sneasel
+215;Sneasel;Weavile
+216;Teddiursa;Teddiursa
+216;Teddiursa;Ursaring
+217;Ursaring;Teddiursa
+217;Ursaring;Ursaring
+218;Slugma;Slugma
+218;Slugma;Magcargo
+219;Magcargo;Slugma
+219;Magcargo;Magcargo
+220;Swinub;Swinub
+220;Swinub;Piloswine
+220;Swinub;Mamoswine
+221;Piloswine;Swinub
+221;Piloswine;Piloswine
+221;Piloswine;Mamoswine
+222;Corsola;Corsola
+222;Galarian Corsola;Galarian Corsola
+222;Galarian Corsola;Cursola
+223;Remoraid;Remoraid
+223;Remoraid;Octillery
+224;Octillery;Remoraid
+224;Octillery;Octillery
+225;Delibird;Delibird
+226;Mantine;Mantyke
+226;Mantine;Mantine
+227;Skarmory;Skarmory
+228;Houndour;Houndour
+228;Houndour;Houndoom
+229;Houndoom;Houndour
+229;Houndoom;Houndoom
+229;Mega Houndoom;Houndour
+229;Mega Houndoom;Houndoom
+230;Kingdra;Horsea
+230;Kingdra;Seadra
+230;Kingdra;Kingdra
+231;Phanpy;Phanpy
+231;Phanpy;Donphan
+232;Donphan;Phanpy
+232;Donphan;Donphan
+233;Porygon2;Porygon
+233;Porygon2;Porygon2
+233;Porygon2;Porygon-Z
+234;Stantler;Stantler
+235;Smeargle;Smeargle
+236;Tyrogue;Tyrogue
+236;Tyrogue;Hitmonlee
+236;Tyrogue;Hitmonchan
+236;Tyrogue;Hitmontop
+237;Hitmontop;Tyrogue
+237;Hitmontop;Hitmonlee
+237;Hitmontop;Hitmonchan
+237;Hitmontop;Hitmontop
+238;Smoochum;Smoochum
+238;Smoochum;Jynx
+239;Elekid;Elekid
+239;Elekid;Electabuzz
+239;Elekid;Electivire
+240;Magby;Magby
+240;Magby;Magmar
+240;Magby;Magmortar
+241;Miltank;Miltank
+242;Blissey;Happiny
+242;Blissey;Chansey
+242;Blissey;Blissey
+243;Raikou;Raikou
+244;Entei;Entei
+245;Suicune;Suicune
+246;Larvitar;Larvitar
+246;Larvitar;Pupitar
+246;Larvitar;Tyranitar
+247;Pupitar;Larvitar
+247;Pupitar;Pupitar
+247;Pupitar;Tyranitar
+248;Tyranitar;Larvitar
+248;Tyranitar;Pupitar
+248;Tyranitar;Tyranitar
+248;Mega Tyranitar;Larvitar
+248;Mega Tyranitar;Pupitar
+248;Mega Tyranitar;Tyranitar
+249;Lugia;Lugia
+250;Ho-oh;Ho-oh
+251;Celebi;Celebi
+252;Treecko;Treecko
+252;Treecko;Grovyle
+252;Treecko;Sceptile
+253;Grovyle;Treecko
+253;Grovyle;Grovyle
+253;Grovyle;Sceptile
+254;Sceptile;Treecko
+254;Sceptile;Grovyle
+254;Sceptile;Sceptile
+254;Mega Sceptile;Treecko
+254;Mega Sceptile;Grovyle
+254;Mega Sceptile;Sceptile
+255;Torchic;Torchic
+255;Torchic;Combusken
+255;Torchic;Blaziken
+256;Combusken;Torchic
+256;Combusken;Combusken
+256;Combusken;Blaziken
+257;Blaziken;Torchic
+257;Blaziken;Combusken
+257;Blaziken;Blaziken
+257;Mega Blaziken;Torchic
+257;Mega Blaziken;Combusken
+257;Mega Blaziken;Blaziken
+258;Mudkip;Mudkip
+258;Mudkip;Marshtomp
+258;Mudkip;Swampert
+259;Marshtomp;Mudkip
+259;Marshtomp;Marshtomp
+259;Marshtomp;Swampert
+260;Swampert;Mudkip
+260;Swampert;Marshtomp
+260;Swampert;Swampert
+260;Mega Swampert;Mudkip
+260;Mega Swampert;Marshtomp
+260;Mega Swampert;Swampert
+261;Poochyena;Poochyena
+261;Poochyena;Mightyena
+262;Mightyena;Poochyena
+262;Mightyena;Mightyena
+263;Zigzagoon;Zigzagoon
+263;Zigzagoon;Linoone
+263;Galarian Zigzagoon;Galarian Zigzagoon
+263;Galarian Zigzagoon;Galarian Linoone
+263;Galarian Zigzagoon;Obstagoon
+264;Linoone;Zigzagoon
+264;Linoone;Linoone
+264;Galarian Linoone;Galarian Zigzagoon
+264;Galarian Linoone;Galarian Linoone
+264;Galarian Linoone;Obstagoon
+265;Wurmple;Wurmple
+265;Wurmple;Silcoon
+265;Wurmple;Beautifly
+265;Wurmple;Cascoon
+265;Wurmple;Dustox
+266;Silcoon;Wurmple
+266;Silcoon;Silcoon
+266;Silcoon;Beautifly
+266;Silcoon;Cascoon
+266;Silcoon;Dustox
+267;Beautifly;Wurmple
+267;Beautifly;Silcoon
+267;Beautifly;Beautifly
+267;Beautifly;Cascoon
+267;Beautifly;Dustox
+268;Cascoon;Wurmple
+268;Cascoon;Silcoon
+268;Cascoon;Beautifly
+268;Cascoon;Cascoon
+268;Cascoon;Dustox
+269;Dustox;Wurmple
+269;Dustox;Silcoon
+269;Dustox;Beautifly
+269;Dustox;Cascoon
+269;Dustox;Dustox
+270;Lotad;Lotad
+270;Lotad;Lombre
+270;Lotad;Ludicolo
+271;Lombre;Lotad
+271;Lombre;Lombre
+271;Lombre;Ludicolo
+272;Ludicolo;Lotad
+272;Ludicolo;Lombre
+272;Ludicolo;Ludicolo
+273;Seedot;Seedot
+273;Seedot;Nuzleaf
+273;Seedot;Shiftry
+274;Nuzleaf;Seedot
+274;Nuzleaf;Nuzleaf
+274;Nuzleaf;Shiftry
+275;Shiftry;Seedot
+275;Shiftry;Nuzleaf
+275;Shiftry;Shiftry
+276;Taillow;Taillow
+276;Taillow;Swellow
+277;Swellow;Taillow
+277;Swellow;Swellow
+278;Wingull;Wingull
+278;Wingull;Pelipper
+279;Pelipper;Wingull
+279;Pelipper;Pelipper
+280;Ralts;Ralts
+280;Ralts;Kirlia
+280;Ralts;Gardevoir
+280;Ralts;Gallade
+281;Kirlia;Ralts
+281;Kirlia;Kirlia
+281;Kirlia;Gardevoir
+281;Kirlia;Gallade
+282;Gardevoir;Ralts
+282;Gardevoir;Kirlia
+282;Gardevoir;Gardevoir
+282;Gardevoir;Gallade
+282;Mega Gardevoir;Ralts
+282;Mega Gardevoir;Kirlia
+282;Mega Gardevoir;Gardevoir
+282;Mega Gardevoir;Gallade
+283;Surskit;Surskit
+283;Surskit;Masquerain
+284;Masquerain;Surskit
+284;Masquerain;Masquerain
+285;Shroomish;Shroomish
+285;Shroomish;Breloom
+286;Breloom;Shroomish
+286;Breloom;Breloom
+287;Slakoth;Slakoth
+287;Slakoth;Vigoroth
+287;Slakoth;Slaking
+288;Vigoroth;Slakoth
+288;Vigoroth;Vigoroth
+288;Vigoroth;Slaking
+289;Slaking;Slakoth
+289;Slaking;Vigoroth
+289;Slaking;Slaking
+290;Nincada;Nincada
+290;Nincada;Ninjask
+290;Nincada;Shedinja
+291;Ninjask;Nincada
+291;Ninjask;Ninjask
+291;Ninjask;Shedinja
+292;Shedinja;Nincada
+292;Shedinja;Ninjask
+292;Shedinja;Shedinja
+293;Whismur;Whismur
+293;Whismur;Loudred
+293;Whismur;Exploud
+294;Loudred;Whismur
+294;Loudred;Loudred
+294;Loudred;Exploud
+295;Exploud;Whismur
+295;Exploud;Loudred
+295;Exploud;Exploud
+296;Makuhita;Makuhita
+296;Makuhita;Hariyama
+297;Hariyama;Makuhita
+297;Hariyama;Hariyama
+298;Azurill;Azurill
+298;Azurill;Marill
+298;Azurill;Azumarill
+299;Nosepass;Nosepass
+299;Nosepass;Probopass
+300;Skitty;Skitty
+300;Skitty;Delcatty
+301;Delcatty;Skitty
+301;Delcatty;Delcatty
+302;Sableye;Sableye
+302;Mega Sableye;Mega Sableye
+303;Mawile;Mawile
+303;Mega Mawile;Mega Mawile
+304;Aron;Aron
+304;Aron;Lairon
+304;Aron;Aggron
+305;Lairon;Aron
+305;Lairon;Lairon
+305;Lairon;Aggron
+306;Aggron;Aron
+306;Aggron;Lairon
+306;Aggron;Aggron
+306;Mega Aggron;Aron
+306;Mega Aggron;Lairon
+306;Mega Aggron;Aggron
+307;Meditite;Meditite
+307;Meditite;Medicham
+308;Medicham;Meditite
+308;Medicham;Medicham
+308;Mega Medicham;Meditite
+308;Mega Medicham;Medicham
+309;Electrike;Electrike
+309;Electrike;Manectric
+310;Manectric;Electrike
+310;Manectric;Manectric
+310;Mega Manectric;Electrike
+310;Mega Manectric;Manectric
+311;Plusle;Plusle
+312;Minun;Minun
+313;Volbeat;Volbeat
+314;Illumise;Illumise
+315;Roselia;Budew
+315;Roselia;Roselia
+315;Roselia;Roserade
+316;Gulpin;Gulpin
+316;Gulpin;Swalot
+317;Swalot;Gulpin
+317;Swalot;Swalot
+318;Carvanha;Carvanha
+318;Carvanha;Sharpedo
+319;Sharpedo;Carvanha
+319;Sharpedo;Sharpedo
+319;Mega Sharpedo;Carvanha
+319;Mega Sharpedo;Sharpedo
+320;Wailmer;Wailmer
+320;Wailmer;Wailord
+321;Wailord;Wailmer
+321;Wailord;Wailord
+322;Numel;Numel
+322;Numel;Camerupt
+323;Camerupt;Numel
+323;Camerupt;Camerupt
+323;Mega Camerupt;Numel
+323;Mega Camerupt;Camerupt
+324;Torkoal;Torkoal
+325;Spoink;Spoink
+325;Spoink;Grumpig
+326;Grumpig;Spoink
+326;Grumpig;Grumpig
+327;Spinda;Spinda
+328;Trapinch;Trapinch
+328;Trapinch;Vibrava
+328;Trapinch;Flygon
+329;Vibrava;Trapinch
+329;Vibrava;Vibrava
+329;Vibrava;Flygon
+330;Flygon;Trapinch
+330;Flygon;Vibrava
+330;Flygon;Flygon
+331;Cacnea;Cacnea
+331;Cacnea;Cacturne
+332;Cacturne;Cacnea
+332;Cacturne;Cacturne
+333;Swablu;Swablu
+333;Swablu;Altaria
+334;Altaria;Swablu
+334;Altaria;Altaria
+334;Mega Altaria;Swablu
+334;Mega Altaria;Altaria
+335;Zangoose;Zangoose
+336;Seviper;Seviper
+337;Lunatone;Lunatone
+338;Solrock;Solrock
+339;Barboach;Barboach
+339;Barboach;Whiscash
+340;Whiscash;Barboach
+340;Whiscash;Whiscash
+341;Corphish;Corphish
+341;Corphish;Crawdaunt
+342;Crawdaunt;Corphish
+342;Crawdaunt;Crawdaunt
+343;Baltoy;Baltoy
+343;Baltoy;Claydol
+344;Claydol;Baltoy
+344;Claydol;Claydol
+345;Lileep;Lileep
+345;Lileep;Cradily
+346;Cradily;Lileep
+346;Cradily;Cradily
+347;Anorith;Anorith
+347;Anorith;Armaldo
+348;Armaldo;Anorith
+348;Armaldo;Armaldo
+349;Feebas;Feebas
+349;Feebas;Milotic
+350;Milotic;Feebas
+350;Milotic;Milotic
+351;Castform;Castform
+352;Kecleon;Kecleon
+353;Shuppet;Shuppet
+353;Shuppet;Banette
+354;Banette;Shuppet
+354;Banette;Banette
+354;Mega Banette;Shuppet
+354;Mega Banette;Banette
+355;Duskull;Duskull
+355;Duskull;Dusclops
+355;Duskull;Dusknoir
+356;Dusclops;Duskull
+356;Dusclops;Dusclops
+356;Dusclops;Dusknoir
+357;Tropius;Tropius
+358;Chimecho;Chingling
+358;Chimecho;Chimecho
+359;Absol;Absol
+359;Mega Absol;Mega Absol
+360;Wynaut;Wynaut
+360;Wynaut;Wobbuffet
+361;Snorunt;Snorunt
+361;Snorunt;Glalie
+361;Snorunt;Froslass
+362;Glalie;Snorunt
+362;Glalie;Glalie
+362;Glalie;Froslass
+362;Mega Glalie;Snorunt
+362;Mega Glalie;Glalie
+362;Mega Glalie;Froslass
+363;Spheal;Spheal
+363;Spheal;Sealeo
+363;Spheal;Walrein
+364;Sealeo;Spheal
+364;Sealeo;Sealeo
+364;Sealeo;Walrein
+365;Walrein;Spheal
+365;Walrein;Sealeo
+365;Walrein;Walrein
+366;Clamperl;Clamperl
+366;Clamperl;Huntail
+366;Clamperl;Gorebyss
+367;Huntail;Clamperl
+367;Huntail;Huntail
+367;Huntail;Gorebyss
+368;Gorebyss;Clamperl
+368;Gorebyss;Huntail
+368;Gorebyss;Gorebyss
+369;Relicanth;Relicanth
+370;Luvdisc;Luvdisc
+371;Bagon;Bagon
+371;Bagon;Shelgon
+371;Bagon;Salamence
+372;Shelgon;Bagon
+372;Shelgon;Shelgon
+372;Shelgon;Salamence
+373;Salamence;Bagon
+373;Salamence;Shelgon
+373;Salamence;Salamence
+373;Mega Salamence;Bagon
+373;Mega Salamence;Shelgon
+373;Mega Salamence;Salamence
+374;Beldum;Beldum
+374;Beldum;Metang
+374;Beldum;Metagross
+375;Metang;Beldum
+375;Metang;Metang
+375;Metang;Metagross
+376;Metagross;Beldum
+376;Metagross;Metang
+376;Metagross;Metagross
+376;Mega Metagross;Beldum
+376;Mega Metagross;Metang
+376;Mega Metagross;Metagross
+377;Regirock;Regirock
+378;Regice;Regice
+379;Registeel;Registeel
+380;Latias;Latias
+380;Mega Latias;Mega Latias
+381;Latios;Latios
+381;Mega Latios;Mega Latios
+382;Kyogre;Kyogre
+382;Primal Kyogre;Primal Kyogre
+383;Groudon;Groudon
+383;Primal Groudon;Primal Groudon
+384;Rayquaza;Rayquaza
+384;Mega Rayquaza;Mega Rayquaza
+385;Jirachi;Jirachi
+386;Deoxys Normal Forme;Deoxys Normal Forme
+386;Deoxys Attack Forme;Deoxys Attack Forme
+386;Deoxys Defense Forme;Deoxys Defense Forme
+386;Deoxys Speed Forme;Deoxys Speed Forme
+387;Turtwig;Turtwig
+387;Turtwig;Grotle
+387;Turtwig;Torterra
+388;Grotle;Turtwig
+388;Grotle;Grotle
+388;Grotle;Torterra
+389;Torterra;Turtwig
+389;Torterra;Grotle
+389;Torterra;Torterra
+390;Chimchar;Chimchar
+390;Chimchar;Monferno
+390;Chimchar;Infernape
+391;Monferno;Chimchar
+391;Monferno;Monferno
+391;Monferno;Infernape
+392;Infernape;Chimchar
+392;Infernape;Monferno
+392;Infernape;Infernape
+393;Piplup;Piplup
+393;Piplup;Prinplup
+393;Piplup;Empoleon
+394;Prinplup;Piplup
+394;Prinplup;Prinplup
+394;Prinplup;Empoleon
+395;Empoleon;Piplup
+395;Empoleon;Prinplup
+395;Empoleon;Empoleon
+396;Starly;Starly
+396;Starly;Staravia
+396;Starly;Staraptor
+397;Staravia;Starly
+397;Staravia;Staravia
+397;Staravia;Staraptor
+398;Staraptor;Starly
+398;Staraptor;Staravia
+398;Staraptor;Staraptor
+399;Bidoof;Bidoof
+399;Bidoof;Bibarel
+400;Bibarel;Bidoof
+400;Bibarel;Bibarel
+401;Kricketot;Kricketot
+401;Kricketot;Kricketune
+402;Kricketune;Kricketot
+402;Kricketune;Kricketune
+403;Shinx;Shinx
+403;Shinx;Luxio
+403;Shinx;Luxray
+404;Luxio;Shinx
+404;Luxio;Luxio
+404;Luxio;Luxray
+405;Luxray;Shinx
+405;Luxray;Luxio
+405;Luxray;Luxray
+406;Budew;Budew
+406;Budew;Roselia
+406;Budew;Roserade
+407;Roserade;Budew
+407;Roserade;Roselia
+407;Roserade;Roserade
+408;Cranidos;Cranidos
+408;Cranidos;Rampardos
+409;Rampardos;Cranidos
+409;Rampardos;Rampardos
+410;Shieldon;Shieldon
+410;Shieldon;Bastiodon
+411;Bastiodon;Shieldon
+411;Bastiodon;Bastiodon
+412;Burmy;Mothim
+412;Burmy;Burmy
+413;Wormadam Plant Cloak;Burmy
+413;Wormadam Plant Cloak;Mothim
+413;Wormadam Sandy Cloak;Mothim
+413;Wormadam Sandy Cloak;Burmy
+413;Wormadam Trash Cloak;Burmy
+413;Wormadam Trash Cloak;Mothim
+414;Mothim;Burmy
+414;Mothim;Mothim
+415;Combee;Combee
+415;Combee;Vespiquen
+416;Vespiquen;Combee
+416;Vespiquen;Vespiquen
+417;Pachirisu;Pachirisu
+418;Buizel;Buizel
+418;Buizel;Floatzel
+419;Floatzel;Buizel
+419;Floatzel;Floatzel
+420;Cherubi;Cherubi
+420;Cherubi;Cherrim
+421;Cherrim;Cherubi
+421;Cherrim;Cherrim
+422;Shellos;Shellos
+422;Shellos;Gastrodon
+423;Gastrodon;Shellos
+423;Gastrodon;Gastrodon
+424;Ambipom;Aipom
+424;Ambipom;Ambipom
+425;Drifloon;Drifloon
+425;Drifloon;Drifblim
+426;Drifblim;Drifloon
+426;Drifblim;Drifblim
+427;Buneary;Buneary
+427;Buneary;Lopunny
+428;Lopunny;Buneary
+428;Lopunny;Lopunny
+428;Mega Lopunny;Buneary
+428;Mega Lopunny;Lopunny
+429;Mismagius;Misdreavus
+429;Mismagius;Mismagius
+430;Honchkrow;Murkrow
+430;Honchkrow;Honchkrow
+431;Glameow;Glameow
+431;Glameow;Purugly
+432;Purugly;Glameow
+432;Purugly;Purugly
+433;Chingling;Chingling
+433;Chingling;Chimecho
+434;Stunky;Stunky
+434;Stunky;Skuntank
+435;Skuntank;Stunky
+435;Skuntank;Skuntank
+436;Bronzor;Bronzor
+436;Bronzor;Bronzong
+437;Bronzong;Bronzor
+437;Bronzong;Bronzong
+438;Bonsly;Bonsly
+438;Bonsly;Sudowoodo
+439;Mime Jr.;Mime Jr.
+439;Mime Jr.;Mr. Mime
+439;Mime Jr.;Galarian Mr. Mime
+440;Happiny;Happiny
+440;Happiny;Chansey
+440;Happiny;Blissey
+441;Chatot;Chatot
+442;Spiritomb;Spiritomb
+443;Gible;Gible
+443;Gible;Gabite
+443;Gible;Garchomp
+444;Gabite;Gible
+444;Gabite;Gabite
+444;Gabite;Garchomp
+445;Garchomp;Gible
+445;Garchomp;Gabite
+445;Garchomp;Garchomp
+445;Mega Garchomp;Gible
+445;Mega Garchomp;Gabite
+445;Mega Garchomp;Garchomp
+446;Munchlax;Munchlax
+446;Munchlax;Snorlax
+447;Riolu;Riolu
+447;Riolu;Lucario
+448;Lucario;Riolu
+448;Lucario;Lucario
+448;Mega Lucario;Riolu
+448;Mega Lucario;Lucario
+449;Hippopotas;Hippopotas
+449;Hippopotas;Hippowdon
+450;Hippowdon;Hippopotas
+450;Hippowdon;Hippowdon
+451;Skorupi;Skorupi
+451;Skorupi;Drapion
+452;Drapion;Skorupi
+452;Drapion;Drapion
+453;Croagunk;Croagunk
+453;Croagunk;Toxicroak
+454;Toxicroak;Croagunk
+454;Toxicroak;Toxicroak
+455;Carnivine;Carnivine
+456;Finneon;Finneon
+456;Finneon;Lumineon
+457;Lumineon;Finneon
+457;Lumineon;Lumineon
+458;Mantyke;Mantyke
+458;Mantyke;Mantine
+459;Snover;Snover
+459;Snover;Abomasnow
+460;Abomasnow;Snover
+460;Abomasnow;Abomasnow
+460;Mega Abomasnow;Snover
+460;Mega Abomasnow;Abomasnow
+461;Weavile;Sneasel
+461;Weavile;Weavile
+462;Magnezone;Magnemite
+462;Magnezone;Magneton
+462;Magnezone;Magnezone
+463;Lickilicky;Lickitung
+463;Lickilicky;Lickilicky
+464;Rhyperior;Rhyhorn
+464;Rhyperior;Rhydon
+464;Rhyperior;Rhyperior
+465;Tangrowth;Tangela
+465;Tangrowth;Tangrowth
+466;Electivire;Elekid
+466;Electivire;Electabuzz
+466;Electivire;Electivire
+467;Magmortar;Magby
+467;Magmortar;Magmar
+467;Magmortar;Magmortar
+468;Togekiss;Togepi
+468;Togekiss;Togetic
+468;Togekiss;Togekiss
+469;Yanmega;Yanma
+469;Yanmega;Yanmega
+470;Leafeon;Eevee
+470;Leafeon;Vaporeon
+470;Leafeon;Jolteon
+470;Leafeon;Flareon
+470;Leafeon;Espeon
+470;Leafeon;Umbreon
+470;Leafeon;Leafeon
+470;Leafeon;Glaceon
+470;Leafeon;Sylveon
+471;Glaceon;Eevee
+471;Glaceon;Vaporeon
+471;Glaceon;Jolteon
+471;Glaceon;Flareon
+471;Glaceon;Espeon
+471;Glaceon;Umbreon
+471;Glaceon;Leafeon
+471;Glaceon;Glaceon
+471;Glaceon;Sylveon
+472;Gliscor;Gligar
+472;Gliscor;Gliscor
+473;Mamoswine;Swinub
+473;Mamoswine;Piloswine
+473;Mamoswine;Mamoswine
+474;Porygon-Z;Porygon
+474;Porygon-Z;Porygon2
+474;Porygon-Z;Porygon-Z
+475;Gallade;Ralts
+475;Gallade;Kirlia
+475;Gallade;Gardevoir
+475;Gallade;Gallade
+475;Mega Gallade;Ralts
+475;Mega Gallade;Kirlia
+475;Mega Gallade;Gardevoir
+475;Mega Gallade;Gallade
+476;Probopass;Nosepass
+476;Probopass;Probopass
+477;Dusknoir;Duskull
+477;Dusknoir;Dusclops
+477;Dusknoir;Dusknoir
+478;Froslass;Snorunt
+478;Froslass;Glalie
+478;Froslass;Froslass
+479;Rotom;Rotom
+479;Heat Rotom;Heat Rotom
+479;Wash Rotom;Wash Rotom
+479;Frost Rotom;Frost Rotom
+479;Fan Rotom;Fan Rotom
+479;Mow Rotom;Mow Rotom
+480;Uxie;Uxie
+481;Mesprit;Mesprit
+482;Azelf;Azelf
+483;Dialga;Dialga
+484;Palkia;Palkia
+485;Heatran;Heatran
+486;Regigigas;Regigigas
+487;Giratina Altered Forme;Giratina Altered Forme
+487;Giratina Origin Forme;Giratina Origin Forme
+488;Cresselia;Cresselia
+489;Phione;Phione
+490;Manaphy;Manaphy
+491;Darkrai;Darkrai
+492;Shaymin Land Forme;Shaymin Land Forme
+492;Shaymin Sky Forme;Shaymin Sky Forme
+493;Arceus;Arceus
+494;Victini;Victini
+495;Snivy;Snivy
+495;Snivy;Servine
+495;Snivy;Serperior
+496;Servine;Snivy
+496;Servine;Servine
+496;Servine;Serperior
+497;Serperior;Snivy
+497;Serperior;Servine
+497;Serperior;Serperior
+498;Tepig;Tepig
+498;Tepig;Pignite
+498;Tepig;Emboar
+499;Pignite;Tepig
+499;Pignite;Pignite
+499;Pignite;Emboar
+500;Emboar;Tepig
+500;Emboar;Pignite
+500;Emboar;Emboar
+501;Oshawott;Oshawott
+501;Oshawott;Dewott
+501;Oshawott;Samurott
+502;Dewott;Oshawott
+502;Dewott;Dewott
+502;Dewott;Samurott
+503;Samurott;Oshawott
+503;Samurott;Dewott
+503;Samurott;Samurott
+504;Patrat;Patrat
+504;Patrat;Watchog
+505;Watchog;Patrat
+505;Watchog;Watchog
+506;Lillipup;Lillipup
+506;Lillipup;Herdier
+506;Lillipup;Stoutland
+507;Herdier;Lillipup
+507;Herdier;Herdier
+507;Herdier;Stoutland
+508;Stoutland;Lillipup
+508;Stoutland;Herdier
+508;Stoutland;Stoutland
+509;Purrloin;Purrloin
+509;Purrloin;Liepard
+510;Liepard;Purrloin
+510;Liepard;Liepard
+511;Pansage;Pansage
+511;Pansage;Simisage
+512;Simisage;Pansage
+512;Simisage;Simisage
+513;Pansear;Pansear
+513;Pansear;Simisear
+514;Simisear;Pansear
+514;Simisear;Simisear
+515;Panpour;Panpour
+515;Panpour;Simipour
+516;Simipour;Panpour
+516;Simipour;Simipour
+517;Munna;Munna
+517;Munna;Musharna
+518;Musharna;Munna
+518;Musharna;Musharna
+519;Pidove;Pidove
+519;Pidove;Tranquill
+519;Pidove;Unfezant
+520;Tranquill;Pidove
+520;Tranquill;Tranquill
+520;Tranquill;Unfezant
+521;Unfezant;Pidove
+521;Unfezant;Tranquill
+521;Unfezant;Unfezant
+522;Blitzle;Blitzle
+522;Blitzle;Zebstrika
+523;Zebstrika;Blitzle
+523;Zebstrika;Zebstrika
+524;Roggenrola;Roggenrola
+524;Roggenrola;Boldore
+524;Roggenrola;Gigalith
+525;Boldore;Roggenrola
+525;Boldore;Boldore
+525;Boldore;Gigalith
+526;Gigalith;Roggenrola
+526;Gigalith;Boldore
+526;Gigalith;Gigalith
+527;Woobat;Woobat
+527;Woobat;Swoobat
+528;Swoobat;Woobat
+528;Swoobat;Swoobat
+529;Drilbur;Drilbur
+529;Drilbur;Excadrill
+530;Excadrill;Drilbur
+530;Excadrill;Excadrill
+531;Audino;Audino
+531;Mega Audino;Mega Audino
+532;Timburr;Timburr
+532;Timburr;Gurdurr
+532;Timburr;Conkeldurr
+533;Gurdurr;Timburr
+533;Gurdurr;Gurdurr
+533;Gurdurr;Conkeldurr
+534;Conkeldurr;Timburr
+534;Conkeldurr;Gurdurr
+534;Conkeldurr;Conkeldurr
+535;Tympole;Tympole
+535;Tympole;Palpitoad
+535;Tympole;Seismitoad
+536;Palpitoad;Tympole
+536;Palpitoad;Palpitoad
+536;Palpitoad;Seismitoad
+537;Seismitoad;Tympole
+537;Seismitoad;Palpitoad
+537;Seismitoad;Seismitoad
+538;Throh;Throh
+539;Sawk;Sawk
+540;Sewaddle;Sewaddle
+540;Sewaddle;Swadloon
+540;Sewaddle;Leavanny
+541;Swadloon;Sewaddle
+541;Swadloon;Swadloon
+541;Swadloon;Leavanny
+542;Leavanny;Sewaddle
+542;Leavanny;Swadloon
+542;Leavanny;Leavanny
+543;Venipede;Venipede
+543;Venipede;Whirlipede
+543;Venipede;Scolipede
+544;Whirlipede;Venipede
+544;Whirlipede;Whirlipede
+544;Whirlipede;Scolipede
+545;Scolipede;Venipede
+545;Scolipede;Whirlipede
+545;Scolipede;Scolipede
+546;Cottonee;Cottonee
+546;Cottonee;Whimsicott
+547;Whimsicott;Cottonee
+547;Whimsicott;Whimsicott
+548;Petilil;Petilil
+548;Petilil;Lilligant
+549;Lilligant;Petilil
+549;Lilligant;Lilligant
+550;Basculin;Basculin
+551;Sandile;Sandile
+551;Sandile;Krokorok
+551;Sandile;Krookodile
+552;Krokorok;Sandile
+552;Krokorok;Krokorok
+552;Krokorok;Krookodile
+553;Krookodile;Sandile
+553;Krookodile;Krokorok
+553;Krookodile;Krookodile
+554;Darumaka;Darumaka
+554;Darumaka;Darmanitan Standard Mode
+554;Galarian Darumaka;Galarian Darumaka
+554;Galarian Darumaka;Galarian Darmanitan Standard Mode
+555;Darmanitan Standard Mode;Darumaka
+555;Darmanitan Standard Mode;Darmanitan Standard Mode
+555;Darmanitan Standard Mode;Galarian Darumaka
+555;Darmanitan Standard Mode;Galarian Darmanitan Standard Mode
+555;Darmanitan Zen Mode;Darumaka
+555;Darmanitan Zen Mode;Darmanitan Standard Mode
+555;Darmanitan Zen Mode;Galarian Darumaka
+555;Darmanitan Zen Mode;Galarian Darmanitan Standard Mode
+555;Galarian Darmanitan Zen Mode;Darumaka
+555;Galarian Darmanitan Zen Mode;Darmanitan Standard Mode
+555;Galarian Darmanitan Zen Mode;Galarian Darumaka
+555;Galarian Darmanitan Zen Mode;Galarian Darmanitan Standard Mode
+555;Galarian Darmanitan Standard Mode;Galarian Darmanitan Standard Mode
+556;Maractus;Maractus
+557;Dwebble;Dwebble
+557;Dwebble;Crustle
+558;Crustle;Dwebble
+558;Crustle;Crustle
+559;Scraggy;Scraggy
+559;Scraggy;Scrafty
+560;Scrafty;Scraggy
+560;Scrafty;Scrafty
+561;Sigilyph;Sigilyph
+562;Yamask;Yamask
+562;Yamask;Cofagrigus
+562;Galarian Yamask;Galarian Yamask
+562;Galarian Yamask;Runerigus
+563;Cofagrigus;Yamask
+563;Cofagrigus;Cofagrigus
+564;Tirtouga;Tirtouga
+564;Tirtouga;Carracosta
+565;Carracosta;Tirtouga
+565;Carracosta;Carracosta
+566;Archen;Archen
+566;Archen;Archeops
+567;Archeops;Archen
+567;Archeops;Archeops
+568;Trubbish;Trubbish
+568;Trubbish;Garbodor
+569;Garbodor;Trubbish
+569;Garbodor;Garbodor
+570;Zorua;Zorua
+570;Zorua;Zoroark
+571;Zoroark;Zorua
+571;Zoroark;Zoroark
+572;Minccino;Minccino
+572;Minccino;Cinccino
+573;Cinccino;Minccino
+573;Cinccino;Cinccino
+574;Gothita;Gothita
+574;Gothita;Gothorita
+574;Gothita;Gothitelle
+575;Gothorita;Gothita
+575;Gothorita;Gothorita
+575;Gothorita;Gothitelle
+576;Gothitelle;Gothita
+576;Gothitelle;Gothorita
+576;Gothitelle;Gothitelle
+577;Solosis;Solosis
+577;Solosis;Duosion
+577;Solosis;Reuniclus
+578;Duosion;Solosis
+578;Duosion;Duosion
+578;Duosion;Reuniclus
+579;Reuniclus;Solosis
+579;Reuniclus;Duosion
+579;Reuniclus;Reuniclus
+580;Ducklett;Ducklett
+580;Ducklett;Swanna
+581;Swanna;Ducklett
+581;Swanna;Swanna
+582;Vanillite;Vanillite
+582;Vanillite;Vanillish
+582;Vanillite;Vanilluxe
+583;Vanillish;Vanillite
+583;Vanillish;Vanillish
+583;Vanillish;Vanilluxe
+584;Vanilluxe;Vanillite
+584;Vanilluxe;Vanillish
+584;Vanilluxe;Vanilluxe
+585;Deerling;Deerling
+585;Deerling;Sawsbuck
+586;Sawsbuck;Deerling
+586;Sawsbuck;Sawsbuck
+587;Emolga;Emolga
+588;Karrablast;Karrablast
+588;Karrablast;Escavalier
+589;Escavalier;Karrablast
+589;Escavalier;Escavalier
+590;Foongus;Foongus
+590;Foongus;Amoonguss
+591;Amoonguss;Foongus
+591;Amoonguss;Amoonguss
+592;Frillish;Frillish
+592;Frillish;Jellicent
+593;Jellicent;Frillish
+593;Jellicent;Jellicent
+594;Alomomola;Alomomola
+595;Joltik;Joltik
+595;Joltik;Galvantula
+596;Galvantula;Joltik
+596;Galvantula;Galvantula
+597;Ferroseed;Ferroseed
+597;Ferroseed;Ferrothorn
+598;Ferrothorn;Ferroseed
+598;Ferrothorn;Ferrothorn
+599;Klink;Klink
+599;Klink;Klang
+599;Klink;Klinklang
+600;Klang;Klink
+600;Klang;Klang
+600;Klang;Klinklang
+601;Klinklang;Klink
+601;Klinklang;Klang
+601;Klinklang;Klinklang
+602;Tynamo;Tynamo
+602;Tynamo;Eelektrik
+602;Tynamo;Eelektross
+603;Eelektrik;Tynamo
+603;Eelektrik;Eelektrik
+603;Eelektrik;Eelektross
+604;Eelektross;Tynamo
+604;Eelektross;Eelektrik
+604;Eelektross;Eelektross
+605;Elgyem;Elgyem
+605;Elgyem;Beheeyem
+606;Beheeyem;Elgyem
+606;Beheeyem;Beheeyem
+607;Litwick;Litwick
+607;Litwick;Lampent
+607;Litwick;Chandelure
+608;Lampent;Litwick
+608;Lampent;Lampent
+608;Lampent;Chandelure
+609;Chandelure;Litwick
+609;Chandelure;Lampent
+609;Chandelure;Chandelure
+610;Axew;Axew
+610;Axew;Fraxure
+610;Axew;Haxorus
+611;Fraxure;Axew
+611;Fraxure;Fraxure
+611;Fraxure;Haxorus
+612;Haxorus;Axew
+612;Haxorus;Fraxure
+612;Haxorus;Haxorus
+613;Cubchoo;Cubchoo
+613;Cubchoo;Beartic
+614;Beartic;Cubchoo
+614;Beartic;Beartic
+615;Cryogonal;Cryogonal
+616;Shelmet;Shelmet
+616;Shelmet;Accelgor
+617;Accelgor;Shelmet
+617;Accelgor;Accelgor
+618;Stunfisk;Stunfisk
+618;Galarian Stunfisk;Galarian Stunfisk
+619;Mienfoo;Mienfoo
+619;Mienfoo;Mienshao
+620;Mienshao;Mienfoo
+620;Mienshao;Mienshao
+621;Druddigon;Druddigon
+622;Golett;Golett
+622;Golett;Golurk
+623;Golurk;Golett
+623;Golurk;Golurk
+624;Pawniard;Pawniard
+624;Pawniard;Bisharp
+625;Bisharp;Pawniard
+625;Bisharp;Bisharp
+626;Bouffalant;Bouffalant
+627;Rufflet;Rufflet
+627;Rufflet;Braviary
+628;Braviary;Rufflet
+628;Braviary;Braviary
+629;Vullaby;Vullaby
+629;Vullaby;Mandibuzz
+630;Mandibuzz;Vullaby
+630;Mandibuzz;Mandibuzz
+631;Heatmor;Heatmor
+632;Durant;Durant
+633;Deino;Deino
+633;Deino;Zweilous
+633;Deino;Hydreigon
+634;Zweilous;Deino
+634;Zweilous;Zweilous
+634;Zweilous;Hydreigon
+635;Hydreigon;Deino
+635;Hydreigon;Zweilous
+635;Hydreigon;Hydreigon
+636;Larvesta;Larvesta
+636;Larvesta;Volcarona
+637;Volcarona;Larvesta
+637;Volcarona;Volcarona
+638;Cobalion;Cobalion
+639;Terrakion;Terrakion
+640;Virizion;Virizion
+641;Tornadus Incarnate Forme;Tornadus Incarnate Forme
+641;Tornadus Therian Forme;Tornadus Therian Forme
+642;Thundurus Incarnate Forme;Thundurus Incarnate Forme
+642;Thundurus Therian Forme;Thundurus Therian Forme
+643;Reshiram;Reshiram
+644;Zekrom;Zekrom
+645;Landorus Incarnate Forme;Landorus Incarnate Forme
+645;Landorus Therian Forme;Landorus Therian Forme
+646;Kyurem;Kyurem
+646;Black Kyurem;Black Kyurem
+646;White Kyurem;White Kyurem
+647;Keldeo Ordinary Forme;Keldeo Ordinary Forme
+647;Keldeo Resolute Forme;Keldeo Resolute Forme
+648;Meloetta Aria Forme;Meloetta Aria Forme
+648;Meloetta Pirouette Forme;Meloetta Pirouette Forme
+649;Genesect;Genesect
+650;Chespin;Chespin
+650;Chespin;Quilladin
+650;Chespin;Chesnaught
+651;Quilladin;Chespin
+651;Quilladin;Quilladin
+651;Quilladin;Chesnaught
+652;Chesnaught;Chespin
+652;Chesnaught;Quilladin
+652;Chesnaught;Chesnaught
+653;Fennekin;Fennekin
+653;Fennekin;Braixen
+653;Fennekin;Delphox
+654;Braixen;Fennekin
+654;Braixen;Braixen
+654;Braixen;Delphox
+655;Delphox;Fennekin
+655;Delphox;Braixen
+655;Delphox;Delphox
+656;Froakie;Froakie
+656;Froakie;Frogadier
+656;Froakie;Greninja
+657;Frogadier;Froakie
+657;Frogadier;Frogadier
+657;Frogadier;Greninja
+658;Greninja;Froakie
+658;Greninja;Frogadier
+658;Greninja;Greninja
+658;Ash-Greninja;Froakie
+658;Ash-Greninja;Frogadier
+658;Ash-Greninja;Greninja
+659;Bunnelby;Bunnelby
+659;Bunnelby;Diggersby
+660;Diggersby;Bunnelby
+660;Diggersby;Diggersby
+661;Fletchling;Fletchling
+661;Fletchling;Fletchinder
+661;Fletchling;Talonflame
+662;Fletchinder;Fletchling
+662;Fletchinder;Fletchinder
+662;Fletchinder;Talonflame
+663;Talonflame;Fletchling
+663;Talonflame;Fletchinder
+663;Talonflame;Talonflame
+664;Scatterbug;Scatterbug
+664;Scatterbug;Spewpa
+664;Scatterbug;Vivillon
+665;Spewpa;Scatterbug
+665;Spewpa;Spewpa
+665;Spewpa;Vivillon
+666;Vivillon;Scatterbug
+666;Vivillon;Spewpa
+666;Vivillon;Vivillon
+667;Litleo;Litleo
+667;Litleo;Pyroar
+668;Pyroar;Litleo
+668;Pyroar;Pyroar
+669;Flabébé;Flabébé
+669;Flabébé;Floette
+669;Flabébé;Florges
+670;Floette;Flabébé
+670;Floette;Floette
+670;Floette;Florges
+671;Florges;Flabébé
+671;Florges;Floette
+671;Florges;Florges
+672;Skiddo;Skiddo
+672;Skiddo;Gogoat
+673;Gogoat;Skiddo
+673;Gogoat;Gogoat
+674;Pancham;Pancham
+674;Pancham;Pangoro
+675;Pangoro;Pancham
+675;Pangoro;Pangoro
+676;Furfrou;Furfrou
+677;Espurr;Espurr
+678;Meowstic Female;Espurr
+678;Meowstic Male;Espurr
+679;Honedge;Honedge
+679;Honedge;Doublade
+680;Doublade;Honedge
+680;Doublade;Doublade
+681;Aegislash Blade Forme;Honedge
+681;Aegislash Blade Forme;Doublade
+681;Aegislash Shield Forme;Honedge
+681;Aegislash Shield Forme;Doublade
+682;Spritzee;Spritzee
+682;Spritzee;Aromatisse
+683;Aromatisse;Spritzee
+683;Aromatisse;Aromatisse
+684;Swirlix;Swirlix
+684;Swirlix;Slurpuff
+685;Slurpuff;Swirlix
+685;Slurpuff;Slurpuff
+686;Inkay;Inkay
+686;Inkay;Malamar
+687;Malamar;Inkay
+687;Malamar;Malamar
+688;Binacle;Binacle
+688;Binacle;Barbaracle
+689;Barbaracle;Binacle
+689;Barbaracle;Barbaracle
+690;Skrelp;Skrelp
+690;Skrelp;Dragalge
+691;Dragalge;Skrelp
+691;Dragalge;Dragalge
+692;Clauncher;Clauncher
+692;Clauncher;Clawitzer
+693;Clawitzer;Clauncher
+693;Clawitzer;Clawitzer
+694;Helioptile;Helioptile
+694;Helioptile;Heliolisk
+695;Heliolisk;Helioptile
+695;Heliolisk;Heliolisk
+696;Tyrunt;Tyrunt
+696;Tyrunt;Tyrantrum
+697;Tyrantrum;Tyrunt
+697;Tyrantrum;Tyrantrum
+698;Amaura;Amaura
+698;Amaura;Aurorus
+699;Aurorus;Amaura
+699;Aurorus;Aurorus
+700;Sylveon;Eevee
+700;Sylveon;Vaporeon
+700;Sylveon;Jolteon
+700;Sylveon;Flareon
+700;Sylveon;Espeon
+700;Sylveon;Umbreon
+700;Sylveon;Leafeon
+700;Sylveon;Glaceon
+700;Sylveon;Sylveon
+701;Hawlucha;Hawlucha
+702;Dedenne;Dedenne
+703;Carbink;Carbink
+704;Goomy;Goomy
+704;Goomy;Sliggoo
+704;Goomy;Goodra
+705;Sliggoo;Goomy
+705;Sliggoo;Sliggoo
+705;Sliggoo;Goodra
+706;Goodra;Goomy
+706;Goodra;Sliggoo
+706;Goodra;Goodra
+707;Klefki;Klefki
+708;Phantump;Phantump
+708;Phantump;Trevenant
+709;Trevenant;Phantump
+709;Trevenant;Trevenant
+710;Pumpkaboo Average Size;Pumpkaboo Average Size
+710;Pumpkaboo Average Size;Gourgeist Average Size
+710;Pumpkaboo Large Size;Pumpkaboo Large Size
+710;Pumpkaboo Large Size;Gourgeist Large Size
+710;Pumpkaboo Small Size;Pumpkaboo Small Size
+710;Pumpkaboo Small Size;Gourgeist Small Size
+710;Pumpkaboo Super Size;Pumpkaboo Super Size
+710;Pumpkaboo Super Size;Gourgeist Super Size
+711;Gourgeist Average Size;Gourgeist Average Size
+711;Gourgeist Average Size;Pumpkaboo Average Size
+711;Gourgeist Large Size;Gourgeist Large Size
+711;Gourgeist Large Size;Pumpkaboo Large Size
+711;Gourgeist Small Size;Gourgeist Small Size
+711;Gourgeist Small Size;Pumpkaboo Small Size
+711;Gourgeist Super Size;Gourgeist Super Size
+711;Gourgeist Super Size;Pumpkaboo Super Size
+712;Bergmite;Bergmite
+712;Bergmite;Avalugg
+713;Avalugg;Bergmite
+713;Avalugg;Avalugg
+714;Noibat;Noibat
+714;Noibat;Noivern
+715;Noivern;Noibat
+715;Noivern;Noivern
+716;Xerneas;Xerneas
+717;Yveltal;Yveltal
+718;Zygarde 50% Forme;Zygarde 50% Forme
+718;Zygarde 10% Forme;Zygarde 10% Forme
+718;Zygarde Complete Forme;Zygarde Complete Forme
+719;Diancie;Diancie
+719;Mega Diancie;Mega Diancie
+720;Hoopa Confined;Hoopa Confined
+720;Hoopa Unbound;Hoopa Unbound
+721;Volcanion;Volcanion
+722;Rowlet;Rowlet
+722;Rowlet;Dartrix
+722;Rowlet;Decidueye
+723;Dartrix;Rowlet
+723;Dartrix;Dartrix
+723;Dartrix;Decidueye
+724;Decidueye;Rowlet
+724;Decidueye;Dartrix
+724;Decidueye;Decidueye
+725;Litten;Litten
+725;Litten;Torracat
+725;Litten;Incineroar
+726;Torracat;Litten
+726;Torracat;Torracat
+726;Torracat;Incineroar
+727;Incineroar;Litten
+727;Incineroar;Torracat
+727;Incineroar;Incineroar
+728;Popplio;Popplio
+728;Popplio;Brionne
+728;Popplio;Primarina
+729;Brionne;Popplio
+729;Brionne;Brionne
+729;Brionne;Primarina
+730;Primarina;Popplio
+730;Primarina;Brionne
+730;Primarina;Primarina
+731;Pikipek;Pikipek
+731;Pikipek;Trumbeak
+731;Pikipek;Toucannon
+732;Trumbeak;Pikipek
+732;Trumbeak;Trumbeak
+732;Trumbeak;Toucannon
+733;Toucannon;Pikipek
+733;Toucannon;Trumbeak
+733;Toucannon;Toucannon
+734;Yungoos;Yungoos
+734;Yungoos;Gumshoos
+735;Gumshoos;Yungoos
+735;Gumshoos;Gumshoos
+736;Grubbin;Grubbin
+736;Grubbin;Charjabug
+736;Grubbin;Vikavolt
+737;Charjabug;Grubbin
+737;Charjabug;Charjabug
+737;Charjabug;Vikavolt
+738;Vikavolt;Grubbin
+738;Vikavolt;Charjabug
+738;Vikavolt;Vikavolt
+739;Crabrawler;Crabrawler
+739;Crabrawler;Crabominable
+740;Crabominable;Crabrawler
+740;Crabominable;Crabominable
+741;Oricorio Baile Style;Oricorio Baile Style
+741;Oricorio P'au Style;Oricorio P'au Style
+741;Oricorio Pom-Pom Style;Oricorio Pom-Pom Style
+741;Oricorio Sensu Style;Oricorio Sensu Style
+742;Cutiefly;Cutiefly
+742;Cutiefly;Ribombee
+743;Ribombee;Cutiefly
+743;Ribombee;Ribombee
+744;Rockruff;Rockruff
+745;Lycanroc Midday Forme;Rockruff
+745;Lycanroc Midnight Forme;Rockruff
+745;Lycanroc Dusk Forme;Rockruff
+746;Wishiwashi Solo Forme;Wishiwashi Solo Forme
+746;Wishiwashi School Forme;Wishiwashi School Forme
+747;Mareanie;Mareanie
+747;Mareanie;Toxapex
+748;Toxapex;Mareanie
+748;Toxapex;Toxapex
+749;Mudbray;Mudbray
+749;Mudbray;Mudsdale
+750;Mudsdale;Mudbray
+750;Mudsdale;Mudsdale
+751;Dewpider;Dewpider
+751;Dewpider;Araquanid
+752;Araquanid;Dewpider
+752;Araquanid;Araquanid
+753;Fomantis;Fomantis
+753;Fomantis;Lurantis
+754;Lurantis;Fomantis
+754;Lurantis;Lurantis
+755;Morelull;Morelull
+755;Morelull;Shiinotic
+756;Shiinotic;Morelull
+756;Shiinotic;Shiinotic
+757;Salandit;Salandit
+757;Salandit;Salazzle
+758;Salazzle;Salandit
+758;Salazzle;Salazzle
+759;Stufful;Stufful
+759;Stufful;Bewear
+760;Bewear;Stufful
+760;Bewear;Bewear
+761;Bounsweet;Bounsweet
+761;Bounsweet;Steenee
+761;Bounsweet;Tsareena
+762;Steenee;Bounsweet
+762;Steenee;Steenee
+762;Steenee;Tsareena
+763;Tsareena;Bounsweet
+763;Tsareena;Steenee
+763;Tsareena;Tsareena
+764;Comfey;Comfey
+765;Oranguru;Oranguru
+766;Passimian;Passimian
+767;Wimpod;Wimpod
+767;Wimpod;Golisopod
+768;Golisopod;Wimpod
+768;Golisopod;Golisopod
+769;Sandygast;Sandygast
+769;Sandygast;Palossand
+770;Palossand;Sandygast
+770;Palossand;Palossand
+771;Pyukumuku;Pyukumuku
+772;Type: Null;Type: Null
+772;Type: Null;Silvally
+773;Silvally;Type: Null
+773;Silvally;Silvally
+774;Minior Meteor Forme;Minior Meteor Forme
+774;Minior Core Forme;Minior Core Forme
+775;Komala;Komala
+776;Turtonator;Turtonator
+777;Togedemaru;Togedemaru
+778;Mimikyu;Mimikyu
+779;Bruxish;Bruxish
+780;Drampa;Drampa
+781;Dhelmise;Dhelmise
+782;Jangmo-o;Jangmo-O
+782;Jangmo-o;Hakamo-O
+782;Jangmo-o;Kommo-O
+783;Hakamo-o;Jangmo-O
+783;Hakamo-o;Hakamo-O
+783;Hakamo-o;Kommo-O
+784;Kommo-o;Jangmo-O
+784;Kommo-o;Hakamo-O
+784;Kommo-o;Kommo-O
+785;Tapu Koko;Tapu Koko
+786;Tapu Lele;Tapu Lele
+787;Tapu Bulu;Tapu Bulu
+788;Tapu Fini;Tapu Fini
+789;Cosmog;Cosmog
+789;Cosmog;Cosmoem
+789;Cosmog;Solgaleo
+789;Cosmog;Lunala
+790;Cosmoem;Cosmog
+790;Cosmoem;Cosmoem
+790;Cosmoem;Solgaleo
+790;Cosmoem;Lunala
+791;Solgaleo;Cosmog
+791;Solgaleo;Cosmoem
+791;Solgaleo;Solgaleo
+791;Solgaleo;Lunala
+792;Lunala;Cosmog
+792;Lunala;Cosmoem
+792;Lunala;Solgaleo
+792;Lunala;Lunala
+793;Nihilego;Nihilego
+794;Buzzwole;Buzzwole
+795;Pheromosa;Pheromosa
+796;Xurkitree;Xurkitree
+797;Celesteela;Celesteela
+798;Kartana;Kartana
+799;Guzzlord;Guzzlord
+800;Necrozma;Necrozma
+800;Dusk Mane Necrozma;Dusk Mane Necrozma
+800;Dawn Wings Necrozma;Dawn Wings Necrozma
+800;Ultra Necrozma;Ultra Necrozma
+801;Magearna;Magearna
+802;Marshadow;Marshadow
+803;Poipole;Poipole
+803;Poipole;Naganadel
+804;Naganadel;Poipole
+804;Naganadel;Naganadel
+805;Stakataka;Stakataka
+806;Blacephalon;Blacephalon
+807;Zeraora;Zeraora
+808;Meltan;Meltan
+808;Meltan;Melmetal
+809;Melmetal;Meltan
+809;Melmetal;Melmetal
+810;Grookey;Grookey
+810;Grookey;Thwackey
+810;Grookey;Rillaboom
+811;Thwackey;Grookey
+811;Thwackey;Thwackey
+811;Thwackey;Rillaboom
+812;Rillaboom;Grookey
+812;Rillaboom;Thwackey
+812;Rillaboom;Rillaboom
+813;Scorbunny;Scorbunny
+813;Scorbunny;Raboot
+813;Scorbunny;Cinderace
+814;Raboot;Scorbunny
+814;Raboot;Raboot
+814;Raboot;Cinderace
+815;Cinderace;Scorbunny
+815;Cinderace;Raboot
+815;Cinderace;Cinderace
+816;Sobble;Sobble
+816;Sobble;Drizzile
+816;Sobble;Inteleon
+817;Drizzile;Sobble
+817;Drizzile;Drizzile
+817;Drizzile;Inteleon
+818;Inteleon;Sobble
+818;Inteleon;Drizzile
+818;Inteleon;Inteleon
+819;Skwovet;Skwovet
+819;Skwovet;Greedent
+820;Greedent;Skwovet
+820;Greedent;Greedent
+821;Rookidee;Rookidee
+821;Rookidee;Corvisquire
+821;Rookidee;Corviknight
+822;Corvisquire;Rookidee
+822;Corvisquire;Corvisquire
+822;Corvisquire;Corviknight
+823;Corviknight;Rookidee
+823;Corviknight;Corvisquire
+823;Corviknight;Corviknight
+824;Blipbug;Blipbug
+824;Blipbug;Dottler
+824;Blipbug;Orbeetle
+825;Dottler;Blipbug
+825;Dottler;Dottler
+825;Dottler;Orbeetle
+826;Orbeetle;Blipbug
+826;Orbeetle;Dottler
+826;Orbeetle;Orbeetle
+827;Nickit;Nickit
+827;Nickit;Thievul
+828;Thievul;Nickit
+828;Thievul;Thievul
+829;Gossifleur;Gossifleur
+829;Gossifleur;Eldegoss
+830;Eldegoss;Gossifleur
+830;Eldegoss;Eldegoss
+831;Wooloo;Wooloo
+831;Wooloo;Dubwool
+832;Dubwool;Wooloo
+832;Dubwool;Dubwool
+833;Chewtle;Chewtle
+833;Chewtle;Drednaw
+834;Drednaw;Chewtle
+834;Drednaw;Drednaw
+835;Yamper;Yamper
+835;Yamper;Boltund
+836;Boltund;Yamper
+836;Boltund;Boltund
+837;Rolycoly;Rolycoly
+837;Rolycoly;Carkol
+837;Rolycoly;Coalossal
+838;Carkol;Rolycoly
+838;Carkol;Carkol
+838;Carkol;Coalossal
+839;Coalossal;Rolycoly
+839;Coalossal;Carkol
+839;Coalossal;Coalossal
+840;Applin;Applin
+840;Applin;Flapple
+840;Applin;Appletun
+841;Flapple;Applin
+841;Flapple;Flapple
+841;Flapple;Appletun
+842;Appletun;Applin
+842;Appletun;Flapple
+842;Appletun;Appletun
+843;Silicobra;Silicobra
+843;Silicobra;Sandaconda
+844;Sandaconda;Silicobra
+844;Sandaconda;Sandaconda
+845;Cramorant;Cramorant
+846;Arrokuda;Arrokuda
+846;Arrokuda;Barraskewda
+847;Barraskewda;Arrokuda
+847;Barraskewda;Barraskewda
+848;Toxel;Toxel
+848;Toxel;Toxtricity Amped Forme
+848;Toxel;Toxitricity Low Key Forme
+849;Toxtricity Amped Forme;Toxel
+849;Toxtricity Amped Forme;Toxtricity Amped Forme
+849;Toxtricity Amped Forme;Toxitricity Low Key Forme
+849;Toxitricity Low Key Forme;Toxel
+849;Toxitricity Low Key Forme;Toxtricity Amped Forme
+849;Toxitricity Low Key Forme;Toxitricity Low Key Forme
+850;Sizzlipede;Sizzlipede
+850;Sizzlipede;Centiskorch
+851;Centiskorch;Sizzlipede
+851;Centiskorch;Centiskorch
+852;Clobbopus;Clobbopus
+852;Clobbopus;Grapploct
+853;Grapploct;Clobbopus
+853;Grapploct;Grapploct
+854;Sinistea;Sinistea
+854;Sinistea;Polteageist
+855;Polteageist;Sinistea
+855;Polteageist;Polteageist
+856;Hatenna;Hatenna
+856;Hatenna;Hattrem
+856;Hatenna;Hatterene
+857;Hattrem;Hatenna
+857;Hattrem;Hattrem
+857;Hattrem;Hatterene
+858;Hatterene;Hatenna
+858;Hatterene;Hattrem
+858;Hatterene;Hatterene
+859;Impidimp;Impidimp
+859;Impidimp;Morgrem
+859;Impidimp;Grimmsnarl
+860;Morgrem;Impidimp
+860;Morgrem;Morgrem
+860;Morgrem;Grimmsnarl
+861;Grimmsnarl;Impidimp
+861;Grimmsnarl;Morgrem
+861;Grimmsnarl;Grimmsnarl
+862;Obstagoon;Galarian Zigzagoon
+862;Obstagoon;Galarian Linoone
+862;Obstagoon;Obstagoon
+863;Perrserker;Galarian Meowth
+863;Perrserker;Perrserker
+864;Cursola;Galarian Corsola
+864;Cursola;Cursola
+865;Sirfetch'd;Farfetch'd
+865;Sirfetch'd;Sirfetch'd
+865;Sirfetch'd;Galarian Farfetch'd
+866;Galarian Mr. Mime;Mime Jr.
+866;Galarian Mr. Mime;Mr. Mime
+866;Galarian Mr. Mime;Galarian Mr. Mime
+866;Mr. Rime;Mr. Rime
+867;Runerigus;Galarian Yamask
+867;Runerigus;Runerigus
+868;Milcery;Milcery
+868;Milcery;Alcremie
+869;Alcremie;Milcery
+869;Alcremie;Alcremie
+870;Falinks;Falinks
+871;Pincurchin;Pincurchin
+872;Snom;Snom
+872;Snom;Frosmoth
+873;Frosmoth;Snom
+873;Frosmoth;Frosmoth
+874;Stonjourner;Stonjourner
+875;Eiscue Ice Face;Eiscue Ice Face
+875;Eiscue Noice Face;Eiscue Noice Face
+876;Indeedee Female;Indeedee Female
+876;Indeedee Male;Indeedee Male
+877;Morpeko Full Belly Mode;Morpeko Full Belly Mode
+877;Morpeko Hangry Mode;Morpeko Hangry Mode
+878;Cufant;Cufant
+878;Cufant;Copperajah
+879;Copperajah;Cufant
+879;Copperajah;Copperajah
+880;Dracozolt;Dracozolt
+881;Arctozolt;Arctozolt
+882;Dracovish;Dracovish
+883;Arctovish;Arctovish
+884;Duraludon;Duraludon
+885;Dreepy;Dreepy
+885;Dreepy;Drakloak
+885;Dreepy;Dragapult
+886;Drakloak;Dreepy
+886;Drakloak;Drakloak
+886;Drakloak;Dragapult
+887;Dragapult;Dreepy
+887;Dragapult;Drakloak
+887;Dragapult;Dragapult
+888;Zacian Crowned Sword Forme;Zacian Crowned Sword Forme
+888;Zacian Hero of Many Battles;Zacian Hero of Many Battles
+889;Zamazenta Crowned Sheild Forme;Zamazenta Crowned Sheild Forme
+889;Zamazenta Hero of Many Battles;Zamazenta Hero of Many Battles
+890;Eternatus;Eternatus
+890;Eternamax Eternatus;Eternamax Eternatus
+891;Kubfu;Kubfu
+891;Kubfu;Urshifu Single Strike Style
+891;Kubfu;Urshifu Rapid Strike Style
+892;Urshifu Single Strike Style;Kubfu
+892;Urshifu Single Strike Style;Urshifu Single Strike Style
+892;Urshifu Rapid Strike Style;Kubfu
+892;Urshifu Rapid Strike Style;Urshifu Rapid Strike Style
+893;Dada Zarude;Dada Zarude
+893;Zarude;Zarude
+894;Regieleki;Regieleki
+895;Regidrago;Regidrago
+896;Glastrier;Glastrier
+897;Spectrier;Spectrier
+898;Calyrex;Calyrex
+898;Ice Rider Calyrex;Ice Rider Calyrex
+898;Shadow Rider Calyrex;Shadow Rider Calyrex
